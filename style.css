@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(46, 46, 46);
+    color: rgb(102, 178, 132);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 24px;
+}
